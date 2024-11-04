@@ -52,7 +52,17 @@ Launch the Instance.
   10. Create an HTML file using vim editor.
       ```vim <filename>.html```
   11. Inside the editor, paste this command.
-![html code](https://github.com/user-attachments/assets/bea91d34-fa3c-444f-acb0-1a728be91779)
+```html
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Page Title</title>
+</head>
+<body>
+    <h1>Welcome to VPC Arch Demo Project</h1>
+</body>
+</html>
+```
 
   12. To save the vim file, press Esc ->:w
       To quit, press Esc ->:q!
