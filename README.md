@@ -1,4 +1,4 @@
-# VPC-Architecture-with-Private-and-Public-Subnets
+# VPC Architecture with Private and Public Subnets
 
 This project provides practical, real world experience on how to setup and configure Virtual Private Cloud (VPC) with Public and Private subnets across two Availability Zones, the Public subnets host a NAT gateway for  internet access and a load balancer node to distribute traffic. Auto Scaling Group which dynamically scales the application based on the workload. The load Balancer distributes the traffic and access internet via NAT gateway.
 
